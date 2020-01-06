@@ -1,1 +1,1 @@
-[pythonanywhere url:](http://rangerwhy.pythonanywhere.com/)
+[pythonanywhere url:http://rangerwhy.pythonanywhere.com/](http://rangerwhy.pythonanywhere.com/)
