@@ -20,6 +20,6 @@
 ### [链接1:http://rangerwhy.pythonanywhere.com/](http://rangerwhy.pythonanywhere.com/)
 ### [链接2:http://jjyy2.pythonanywhere.com/](http://jjyy2.pythonanywhere.com/)
 
-#### pages_url:[日益变胖的地球人](http://xlayal.gitee.io/the_fattening_people_on_earth)
+### pages_url:[日益变胖的地球人](http://xlayal.gitee.io/the_fattening_people_on_earth)
 
 ## 评分的同学们！！如果pythopythonnanywhere部署有误的话（时有发生）请点击pages看完整版数据故事嗷嗷！！
