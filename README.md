@@ -11,4 +11,4 @@
 #### pythonanywhere url:[http://rangerwhy.pythonanywhere.com/](http://rangerwhy.pythonanywhere.com/)
 #### pages_url:[日益变胖的地球人](http://xlayal.gitee.io/the_fattening_people_on_earth)
 
-## 评分的同学们！！如果pythopythonnanywhere部署有误的话（时有发生）请点击pages看完整版的链接嗷嗷
+## 评分的同学们！！如果pythopythonnanywhere部署有误的话（时有发生）请点击pages看完整版数据故事嗷嗷！！
